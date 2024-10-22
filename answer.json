@@ -1,22 +1,4 @@
 {
-	"tomarket": {
-		"answer": "12,5,7"
-	},
-	"major": {
-		"youtube": {
-			"Watch YouTube Video #1": "070624",
-			"Major Games #1": "070624",
-			"Watch YouTube Shorts #3": "070624",
-			"Watch YouTube Shorts #4": "159390",
-			"Watch YouTube Shorts #6": "241086"
-		},
-		"answer": {
-			"choice_1": 2,
-			"choice_2": 10,
-			"choice_3": 14,
-			"choice_4": 13
-		}
-	},
 	"blum": {
 		"How to Analyze Crypto?": "VALUE",
 		"Forks Explained": "GO GET",
